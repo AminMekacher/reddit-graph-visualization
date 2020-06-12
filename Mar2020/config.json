@@ -9,8 +9,8 @@
   },
   "text": {
     "more": "Each node represents a Twitter user. An edge is created from a user to the user they mention in their Tweets",
-    "intro": "Graph of Twitter mentions, starting from users mentioned on Voat in February 2020",
-    "title": "Voat Twitter Graph (Feb 2020)"
+    "intro": "Graph of Twitter mentions, starting from users mentioned on Voat in March 2020",
+    "title": "Voat Twitter Graph (Mar 2020)"
   },
   "legend": {
     "edgeLabel": "Mention",
@@ -33,7 +33,7 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 7,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
